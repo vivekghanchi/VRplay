@@ -7,3 +7,6 @@ It is a  Virtual Reality Application in which user can interact  and move around
 - Unity
 - SteamVR
 - Htc Vive
+
+# Developer
+- Vivek Ghanchi ([@vivekghanchi](https://github.com/vivekghanchi))
