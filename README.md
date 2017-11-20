@@ -10,4 +10,4 @@ It is a Virtual Reality Application in which user can interact with objects like
 
 
 # Developer
-- Vivek Ghanchi ([@vivekghanchi](https://github.com/vivekghanchi))
+##### [Vivek Ghanchi(https://github.com/vivekghanchi)
