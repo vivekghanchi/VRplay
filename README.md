@@ -8,8 +8,6 @@ It is a Virtual Reality Application in which user can interact with objects like
 - SteamVR
 - HTC Vive
 
-# Contributor
-- Akshay Nandwana ([@anandwana001](https://github.com/anandwana001))
 
 # Developer
 - Vivek Ghanchi ([@vivekghanchi](https://github.com/vivekghanchi))
