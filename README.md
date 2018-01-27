@@ -1,6 +1,6 @@
 # VRplay
 
-This  is a Virtual Reality Application in which user can interact with objects like Ball, Cubical Boxes and more and Teleport around an area. Soon this repository will support other VR Devices also.
+This  is a Virtual Reality Application in which user can interact with objects like Ball, Cubical Boxes and more and Make a laser pointer and Teleport around an area, . Soon this repository will support other VR Devices also.
 
 ## Technology Stack
 
